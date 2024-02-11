@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments:
 
 The Gold Price dataset used in this project is publicly available and can be found on various sources, including Kaggle.
-Thank you for your interest in the Diabetes Dataset Prediction project! We hope you find the insights and code provided valuable for your data analysis endeavors.
+Thank you for your interest in the Gold price Prediction project! We hope you find the insights and code provided valuable for your data analysis endeavors.
