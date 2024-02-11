@@ -20,7 +20,7 @@ Gold is a highly valued commodity, and predicting its price is a valuable tool f
 
 ## Data:
 
-* Publicly available diabetes dataset ([Kaggle](https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset))
+* Publicly available Gold Price dataset ([Kaggle](https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset))
 * Pre-processing steps performed (missing value handling, feature engineering)
 
 ## Methodology:
