@@ -33,7 +33,7 @@ Gold is a highly valued commodity, and predicting its price is a valuable tool f
 
 ## Visualization:
 
-[Actual Vs Predicted Values of Gold](
+[Actual Vs Predicted Values of Gold](https://github.com/siddharth-karale/Images/blob/main/Boston%20House%20ActVsPred.png "Actual Vs Predicted")
 
 ## Project Structure:
 
